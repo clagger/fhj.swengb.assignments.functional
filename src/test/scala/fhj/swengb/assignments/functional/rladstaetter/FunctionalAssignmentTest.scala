@@ -5,7 +5,6 @@ import org.junit.{Ignore, Test}
 
 import scala.language.postfixOps
 
-@Ignore
 class FunctionalAssignmentTest {
 
   val lowerBound = 1
