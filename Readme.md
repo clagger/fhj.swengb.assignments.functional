@@ -38,5 +38,5 @@ github "issues" feature of this repository.
 
 [Link for functional assignment issues](https://github.com/rladstaetter/fhj.swengb.assignments.functional/issues)
 
-
+#yolo
 Have fun!
