@@ -5,7 +5,6 @@ import org.junit.{Ignore, Test}
 
 import scala.language.postfixOps
 
-@Ignore
 class FunctionalAssignmentTest {
 
   val lowerBound = 1
@@ -19,13 +18,14 @@ class FunctionalAssignmentTest {
     * helper function to display the value xs
     */
 
+  /*
   def display(assignment : FunctionalAssignment) : Unit = {
     println(assignment.xs.mkString("[",",","]"))
   }
 
   @Test def showXs(): Unit = {
     display(assignment0)
-  }
+  } */
 
 
     /**
